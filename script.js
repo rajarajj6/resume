@@ -6,7 +6,11 @@ var obj=[
         email:"rajarajj789@gmail.com",
         age:"21",
         profession:"full stack developer",
+        address{
         city:"machilipatnam",
+        pincode:"521001",
+        state:"Andra Pradesh"
+        }
         phoneNumber:"1234567890" 
     }
 ];
